@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veritasvalorordo.github.io/veritas-valor-ordo/sitemap.xml
