@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5014,["/veritas-valor-ordo/_next/static/chunks/0dbhjjzl8qfwv.js","/veritas-valor-ordo/_next/static/chunks/0vcrl8nq585~c.js"],"default"]
+3:I[97367,["/veritas-valor-ordo/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found","children":[["$","div",null,{"className":"not-found__frame"}],["$","span",null,{"children":"404"}],["$","h1",null,{"children":"TRASEUL NU EXISTĂ."}],["$","p",null,{"children":"Atlasul public nu conține această adresă."}],["$","a",null,{"href":"/veritas-valor-ordo/","children":[["$","$L2",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left","size":15}]," ÎNAPOI LA SISTEM"]}]]}],[["$","script","script-0",{"src":"/veritas-valor-ordo/_next/static/chunks/0vcrl8nq585~c.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rnI-f61qRWsJkELUOdVrx"}
+5:null
